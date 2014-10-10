@@ -11,4 +11,7 @@ s..w
 .. wq
 :wq
 
+Muito mais mudança neste tex
 
+aaaaaa
+:w /craveira
