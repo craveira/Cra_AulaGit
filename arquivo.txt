@@ -1,1 +1,14 @@
 OLA MUNDO1
+Arquivo modificado
+esc ..w
+
+
+
+s ..w
+s..w
+..wq
+
+.. wq
+:wq
+
+
